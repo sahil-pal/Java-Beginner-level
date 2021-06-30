@@ -1,4 +1,4 @@
-# To-do List App
+# Productivity Calculator App
 It is a core java application that enables the user to create his/her account ,add their schedules and finally can calculate the productivity.
 
 ## How to run the App  
